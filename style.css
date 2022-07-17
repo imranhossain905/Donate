@@ -80,7 +80,7 @@ h2 {
     border: 2px solid green;
 }
 #box-2 {
-    background-color: red;
+    background-color: rgb(237, 178, 178);
     color: white;
 }
 .taka {
@@ -123,29 +123,50 @@ hr{
 .text-right {
     padding-left: 60px;
 }
-.updates {
-    text-align: center;
-    padding: 20px 50px ;
-}
+
+
 .email {
     background-color: rgba(215, 218, 154, 0.971);
-    width: 700px;
-    padding: 50px 30px;
-    margin-left: 500px;
+    width: 600px;
+    margin-left: auto;
+    margin-right:auto ;
+    padding: 50px 20px;
+    border-radius: 2px;
+    text-align:center;
     
     
 
 }
 .email-id {
-    background-color: rgb(207, 199, 188);
+    background-color: rgb(221 220 219);
+    padding: 0 10px;
+    height: 40px ;
+    width: 300px;
+    border-radius: 5px;
     
 }
 .btn-two {
-    padding:10px 20px;
+    padding: 5px 5px;
     font-size: 15px;
     background-color: red;
     text-decoration: none;
     color: white;
     border-radius: 6px;
-    
+    width: 150px;
+    height: 44px;
+    border: 0;
+}
+.humbl {
+ text-align: center;
+ background-color: black;
+ padding: 50px 0px;
+ color: white;
+}
+.humbl-h3 {
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    margin-bottom: 20px;
+}
+.para {
+    font-size: 10px;
 }
