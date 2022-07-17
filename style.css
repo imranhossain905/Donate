@@ -1,0 +1,119 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    margin-bottom: 20px;
+}
+.hero {
+    padding: 100px 0px;
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.banner {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+.banner-h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: white;
+
+}
+.banner-p {
+    margin-bottom: 30px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+
+
+}
+.btn {
+    padding:10px 20px;
+    font-size: 15px;
+    background-color: red;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}
+.section {
+    padding: 80px 0px;
+}
+.top-text {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 40px;
+}
+h2 {
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.flex {
+    display: flex;
+}
+.box{
+    width: 600px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.tk {
+    padding: 40px 20px;
+    background-color: gray;
+    margin: 12px;
+    border-radius: 5px;
+    border: 2px solid green;
+}
+#box-2 {
+    background-color: red;
+    color: white;
+}
+.taka {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+hr{
+    margin-bottom: 30px;
+}
+.card {
+    padding: 60px 20px;
+    color: black;
+    margin: 12px;
+    border-radius: 5px;
+
+}
+#food {
+    background-color: rgb(164, 209, 209);
+}
+#shelter {
+    background-color: rgb(240, 186, 236);
+}
+#form {
+    background-color: rgb(209, 205, 164);
+}
+.width-50 {
+    width: 50%;
+}
+.text-left {
+    padding-right: 50px;
+}
+.side-image {
+    border-radius: 10px;
+}
